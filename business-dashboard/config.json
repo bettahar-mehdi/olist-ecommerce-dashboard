@@ -1,0 +1,11 @@
+{
+  "dataset_path": "data/sales_data.csv",
+  "mappings": {
+    "date_column": "order_date",
+    "category_column": "category",
+    "region_column": "region",
+    "revenue_column": "revenue",
+    "units_column": "quantity"
+  },
+  "dashboard_title": "Olist E-Commerce Analytics Dashboard"
+}

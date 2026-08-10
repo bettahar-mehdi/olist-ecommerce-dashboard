@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+*.egg
+
+# UV
+.uv/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (too large for git - use Git LFS or download script)
+# data/sales_data.csv
+
+# Deliverables (keep these)
+!deliverables/
+
+# Python version
+.python-version
+
+# Project pyproject
+pyproject.toml
+uv.lock
